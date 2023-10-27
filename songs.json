@@ -1,0 +1,41 @@
+{
+    "song1" : {
+       "song" : "Synesthesia",
+       "artist" : "Mayonnaise",
+       "genre" : "Pop, Rock",
+       "link" : "https://www.youtube.com/watch?v=r1iSpbCF10M",
+       "id" : 1
+    },
+ 
+    "song2" : {
+       "song" : "Muli",
+       "artist" : "Ace Banzuelo",
+       "genre" : "R&B, Soul",
+       "link" : "https://www.youtube.com/watch?v=hK1mnXrHayY",
+       "id": 2
+    },
+ 
+    "song3" : {
+       "song" : "Marvin's Room",
+       "artist" : "Drake",
+       "genre" : "Hip-Hop, Rap",
+       "link" : "https://www.youtube.com/watch?v=JDb3ZZD4bA0",
+       "id": 3
+    },
+
+    "song4" : {
+       "song" : "Chemical",
+       "artist" : "Post Malone",
+       "genre" : "Pop Rock, Pop",
+       "link" : "https://www.youtube.com/watch?v=IzPQ_jA00bk",
+       "id": 4
+    },
+ 
+    "song5" : {
+       "song" : "Do not Disturb",
+       "artist" : "Drake",
+       "genre" : "R&B, Hip-Hop, Rock",
+       "link" : "https://www.youtube.com/watch?v=Zo2pMNSkIvE",
+       "id": 5
+    }
+}
